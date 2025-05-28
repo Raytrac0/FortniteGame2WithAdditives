@@ -4,6 +4,7 @@ A Updated Version of FortniteGame2 with Additives and Updated to UE5.4.4
 - A Clean Animation Blueprint that features Basic Locomotion.
 - A Basic Weapon System.
 - A Basic Sprinting System.
+- A Building System with No Editing.
 
 ## Replication
 Everything is entirely Replicated for Client and Server.
